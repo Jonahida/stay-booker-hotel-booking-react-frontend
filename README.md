@@ -117,3 +117,13 @@ git commit -m "Your commit message" -n
 - Backend integration with Express.js for a complete full-stack experience.
 - Additional features and improvements to the booking process.
 
+## License
+This project is licensed under the MIT License.
+
+Original work:
+© 2024 Lakshman Chaudhary  
+https://github.com/iZooGooD/stay-booker-hotel-booking-react-frontend
+
+Modified and extended by:
+Jonathan Hidalgo
+
