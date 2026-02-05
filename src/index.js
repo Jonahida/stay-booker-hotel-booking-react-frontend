@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 
 import { makeServer } from './mirage/mirageServer';
 
-if (import.meta.env.DEV) {
+if (process.env.NODE_ENV === 'development') {
   makeServer();
 }
 
